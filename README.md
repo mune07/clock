@@ -1,4 +1,5 @@
-# Calculater 
-a simple javascript calculater is a straightforward web-based calculater 
-built using the javascript
-it provides basic arthematic operations to help users perform calculations quickly and efficiently
+# Clock
+a simple javascript clock  
+ it is a CSS clock which takesv  in the current time using javascript
+ and also updates the clock hands based on the current hour minute and second 
+
